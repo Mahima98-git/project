@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: yellow;
+}
+
+h1 {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: darkblue;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+p {
+    font-weight: bold;
+    color: green;
+}
+
+hr {
+    color: 1px solid black;
+}
+
+.btn btn-outline-light {
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+btn-outline-light:hover {
+    background: white;
+    border: 1 px solid;
+    color: black;
+}
+
+.header {
+    background: radial-gradient(#f00, #ffd6d6);
+}
+
+table {
+    background-color: violet;
+}
+
+#rating {
+    border-color: darkblue;
+    color: green;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 20px;
+    width: 120px;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+ul {
+    margin-left: -20px;
+}
+
+row {
+    background: white;
+    border-radius: 30px;
+    box-shadow: 12px 12px 22px grey;
+}
+
+body {
+    background-color: yellow;
+}
+
+.btn1 {
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 50%;
+    background-color: orangered;
+    color: black;
+    border: 4px;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.btn1:hover {
+    background: white;
+    border-radius: 1 px solid;
+    color: black
+}
+
+.btn2 {
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 50%;
+    background-color: black;
+    color: wheat;
+    border: 4px;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.btn2:hover {
+    background: white;
+    border-radius: 1 px solid;
+    color: black
+}
